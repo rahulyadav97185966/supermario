@@ -1,5 +1,6 @@
 # supermario
-supermario on kubernets
+supermario on kubernets 
+
 there are two ways to run supermario on kubernets 
 1) through deployment file
 2) using command line 
